@@ -143,7 +143,8 @@ public class Annotations {
   // Not ready yet
   // /**
   //  * Will cause the internal fields of the annotated field to be logged as if they were fields of
-  //  * the object this field is in. This is useful for flattening complex objects into a single path.
+  //  * the object this field is in. This is useful for flattening complex objects into a single
+  // path.
   //  */
   // @Documented
   // @Retention(RetentionPolicy.RUNTIME)
